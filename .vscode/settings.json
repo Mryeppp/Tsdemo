@@ -1,0 +1,5 @@
+{
+  "vim.cursorStylePerMode.normal": "",
+  "javascript.suggest.enabled": true,
+  "javascript.suggest.completeFunctionCalls": true
+}
